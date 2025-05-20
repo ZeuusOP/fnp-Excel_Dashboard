@@ -17,3 +17,10 @@ Create a dashboard and answer the following key business questions to help the c
  8. Order Quantity vs. Delivery Time:- Analyze if higher order quantities impact delivery times.
  9. Revenue Comparison Between Occasions:- Compare revenue generated across different occasions.
 10. Product Popularity by Occasion:- Identify which products are most popular during specific occasions.
+
+
+
+> DASHBOARD
+
+
+![fnpSalesDashboardExcel](https://github.com/user-attachments/assets/758467f2-6bab-4572-9378-ac2730e38b4b)
